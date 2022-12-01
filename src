@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('https://github.com/googlefonts/roboto/blob/main/src/hinted/Roboto-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Roboto-Italic';
+	src: url('https://github.com/googlefonts/roboto/blob/main/src/hinted/Roboto-Italic.ttf');
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Roboto-Bold';
+	src: url('https://github.com/googlefonts/roboto/blob/main/src/hinted/Roboto-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+} 
+
+@font-face {
+	font-family: 'Roboto-BoldItalic';
+	src: url('https://github.com/googlefonts/roboto/blob/main/src/hinted/Roboto-BoldItalic.ttf');
+	font-weight: bold;
+	font-style: italic;
+}
